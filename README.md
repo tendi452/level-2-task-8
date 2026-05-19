@@ -19,6 +19,14 @@ df.describe()
 df.sort.values()
 # this helps you arrange observations in a well ordered manner.
 
+COMPULSORY TASK
+# select tehe limit and Rating columns of the first five observations
+df.Rating.head(5)
+Name : Rating, dtype : 'object'
+
+df.Limit.head(5)
+Name : Limit, dtype :'object'
+
 df.Rating.head()
 # selecting a single column in the data, which yields a series. 
 
