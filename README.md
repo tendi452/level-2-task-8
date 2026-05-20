@@ -1,5 +1,5 @@
 # level-2-task-8
-# import (file) as pd.
+# import pandas as pd.
 
 df = pd.read_csv('balance.txt', sep=('))
 
